@@ -1,4 +1,3 @@
 Hola, mundo
 
 (   .    )(     .   )
-git worktree add ../hotfix-workspace -b hotfix-bug main
